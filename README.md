@@ -15,4 +15,4 @@ APIのKEY取得後に改めてチャレンジします。
 https://atmarkit.itmedia.co.jp/ait/articles/1212/19/news002.html
 HTML5の新機能「Geolocation API」を使用して位置情報を取得する
 https://helog.jp/api/html5-geolocation/
-以前は
+以前はXAMPPなどでサーバーを立てないといけなかったが、HTML新機能により不要になったことを確認
